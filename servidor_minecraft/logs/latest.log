@@ -1189,3 +1189,8 @@
 [03Aug2025 01:29:04.003] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [03Aug2025 01:29:05.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8847ms or 176 ticks behind
 [03Aug2025 01:29:17.523] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Aug2025 01:29:49.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Corey777 has made the advancement [Acquire Hardware]
+[03Aug2025 01:31:55.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Corey777 has made the advancement [Monster Hunter]
+[03Aug2025 01:36:14.338] [Worker-Main-1/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;44558657,-805812143,-2135634931,493044029],type:"minecraft:entity",y_offset:0.36f}}]
+[03Aug2025 01:36:28.581] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4540, l='ServerLevel[world]', x=203.72, y=69.00, z=703.63] died, message: 'Villager suffocated in a wall'
+[03Aug2025 01:38:44.972] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4719, l='ServerLevel[world]', x=99.17, y=64.00, z=786.64] died, message: 'Villager was shot by Pillager'
