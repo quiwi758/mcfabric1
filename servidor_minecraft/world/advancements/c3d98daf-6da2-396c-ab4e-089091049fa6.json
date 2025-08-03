@@ -1,70 +1,215 @@
 {
-  "minecraft:recipes/transportation/mangrove_boat": {
+  "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
-      "in_water": "2025-08-02 04:04:59 +0000"
+      "has_ingredient": "2025-08-03 01:22:52 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-08-03 01:20:59 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-08-02 04:04:25 +0000"
+      "unlock_right_away": "2025-08-03 01:20:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "in_water": "2025-08-02 04:04:59 +0000"
+      "has_lots_of_items": "2025-08-03 01:25:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/cherry_boat": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "in_water": "2025-08-02 04:04:59 +0000"
+      "has_planks": "2025-08-03 01:22:52 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
-      "minecraft:desert": "2025-08-02 04:05:22 +0000",
-      "minecraft:savanna": "2025-08-02 04:04:26 +0000"
+      "has_wheat": "2025-08-03 01:25:27 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-08-03 01:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-03 01:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-03 01:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-03 01:22:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-08-03 01:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-03 01:22:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-08-03 01:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-08-03 01:22:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "coniferous_forest": "2025-08-03 01:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-08-03 01:22:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 01:20:59 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/transportation/bamboo_raft": {
+  "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
-      "in_water": "2025-08-02 04:04:59 +0000"
+      "has_wood": "2025-08-03 01:22:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
-      "in_water": "2025-08-02 04:04:59 +0000"
+      "has_planks": "2025-08-03 01:22:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
-      "in_water": "2025-08-02 04:04:59 +0000"
+      "has_planks": "2025-08-03 01:22:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
-      "in_water": "2025-08-02 04:04:59 +0000"
+      "has_planks": "2025-08-03 01:22:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
-      "in_water": "2025-08-02 04:04:59 +0000"
+      "has_planks": "2025-08-03 01:22:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "in_water": "2025-08-02 04:04:59 +0000"
+      "coniferous_forest": "2025-08-03 01:20:59 +0000",
+      "seasonal_orchard": "2025-08-03 01:22:58 +0000",
+      "seasonal_forest": "2025-08-03 01:22:16 +0000"
+    },
+    "done": false
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-08-03 01:20:58 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-03 01:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-03 01:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-03 01:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-03 01:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-08-03 01:22:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 01:20:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 01:20:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-03 01:22:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 01:20:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-08-03 01:22:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-08-03 01:23:32 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
