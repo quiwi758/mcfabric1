@@ -1194,3 +1194,8 @@
 [03Aug2025 01:36:14.338] [Worker-Main-1/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;44558657,-805812143,-2135634931,493044029],type:"minecraft:entity",y_offset:0.36f}}]
 [03Aug2025 01:36:28.581] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4540, l='ServerLevel[world]', x=203.72, y=69.00, z=703.63] died, message: 'Villager suffocated in a wall'
 [03Aug2025 01:38:44.972] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4719, l='ServerLevel[world]', x=99.17, y=64.00, z=786.64] died, message: 'Villager was shot by Pillager'
+[03Aug2025 01:40:03.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=69, z=674} BlockPos{x=83, y=70, z=675}
+[03Aug2025 01:41:39.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Corey777 has made the advancement [You've Got a Friend in Me]
+[03Aug2025 01:49:05.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corey777 lost connection: Timed out
+[03Aug2025 01:49:05.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Corey777 left the game
+[03Aug2025 01:49:05.768] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
